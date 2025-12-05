@@ -55,7 +55,7 @@ Open XAMPP and start Apache + MySQL
 شغّل Apache + MySQL في XAMPP
 Visit:
 
-👉 http://localhost/bashar-2003
+👉 http://localhost/alamel-stor
 
 Create a database named:
 
